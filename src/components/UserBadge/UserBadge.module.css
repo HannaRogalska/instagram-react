@@ -1,0 +1,22 @@
+.userBadgeRoot{
+    display: flex;
+    cursor: pointer;
+}
+.userBadgeAvatar{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+.userBadgePlace{
+     width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    border-radius: 50%;
+    background-color: aquamarine;
+}
+.userBadgeName{
+    font-size: 14px;
+    font-weight: 500;
+    color:black;
+}
